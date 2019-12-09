@@ -1,0 +1,17 @@
+{
+    "name": "cursogratuitonodejs",
+    "version": "1.0.0",
+    "description": "Conociendo Modulos Nativos De NodeJS",
+    "main": "index.js",
+    "dependencies": {
+        "colors": "^1.4.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "author": "Daniel Fernando Yepez Vélez",
+    "license": "ISC"
+}
